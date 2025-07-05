@@ -1,31 +1,34 @@
 # 🌟 dr. Aa Noval | Dokter & Inovator Healthtech
 
 ![Header](https://img.shields.io/badge/Welcome_to_my_GitHub-Healthtech_Innovator-teal?style=flat-square&logo=github)  
-Saya **dr. Aa Noval**, dokter (MD, Universitas Andalas) dan pendiri [AIBIZ.ID](https://aibiz.id), platform healthtech berbasis AI yang mentransformasi layanan kesehatan mandiri di Indonesia. Dengan pengalaman mengembangkan aplikasi mobile dengan **10M+ unduhan** dan keahlian di bidang AI, saya membangun solusi inovatif untuk dokter, bidan, dan perawat.
+Saya **dr. Aa Noval**, dokter (MD, Universitas Andalas) dan pendiri [AIBIZ.ID](https://aibiz.id), platform healthtech berbasis AI yang mentransformasi layanan kesehatan mandiri di Indonesia. Dengan pengalaman mengembangkan aplikasi mobile dengan **10M+ unduhan** dan keahlian di **Flutter**, **Swift**, dan **Python**, saya membangun solusi inovatif untuk dokter, bidan, dan perawat.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VqZGk5c3c4b3V0cnl0aDJ3c2s3emI4M3J3N3R1c3A2c2F3eGpqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6F8X3jY9y6vL9g7K/giphy.gif" width="300" alt="Healthtech Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ0MWxjd3J0b2R0YzB5b2F4eTM5a3J0N2Z3OXVxc3A0a3RrbHkyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif" width="300" alt="Tech Animation">
 </p>
 
 ## 🚀 Tentang Saya
 | Fokus | Deskripsi |
 |-------|-----------|
-| 🔭 **Proyek Saat Ini** | Memimpin [AIBIZ.ID](https://aibiz.id), platform AI via WhatsApp yang mengotomatiskan registrasi pasien, asistensi konsultasi, dan edukasi kesehatan 24/7 dengan integrasi SATUSEHAT. |
-| 🌱 **Sedang Belajar** | Meningkatkan skalabilitas solusi AI untuk mendukung 500,000+ praktisi kesehatan mandiri di Indonesia. |
+| 🔭 **Proyek Saat Ini** | Memimpin [AIBIZ.ID](https://aibiz.id), platform AI via WhatsApp untuk otomatisasi registrasi pasien, asistensi konsultasi, dan edukasi kesehatan 24/7 dengan integrasi SATUSEHAT. |
+| 🌱 **Sedang Belajar** | Meningkatkan skalabilitas solusi AI dan optimasi aplikasi Flutter untuk performa lintas platform. |
 | 💼 **Pengalaman** | Pendiri [Dirgasesna](https://dirgasena.biz.id) (10M+ unduhan), pemilik klinik di Jasinga, dokter di Puskesmas Pulung selama pandemi COVID-19. |
 | 🏆 **Penghargaan** | The Best Abstract Award (Basic Science), Finalist Most Outstanding Student Award Nasional, Bronze Medal National Biology Olympiad. |
 
 ## 🛠 Keahlian
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript) ![AI](https://img.shields.io/badge/AI-Healthtech-blue?style=flat-square)  
-- **Teknologi**: Artificial Intelligence, Health Tech, Mobile App Development  
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter) ![Swift](https://img.shields.io/badge/Swift-Advanced-FA7343?style=flat-square&logo=swift) ![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python)  
+- **Utama**: Flutter, Swift  
+- **Lainnya**: Python, JavaScript, Java, Dart  
+- **Spesialisasi**: Health Tech, Mobile App Development, Artificial Intelligence  
+- **Tools**: Git, Docker, Supabase, Vercel, Firebase  
 - **Bahasa**: Indonesia (Native), Inggris (C1/C2 - EFSET Certified)  
-- **Tools**: Git, Docker, AWS, Supabase, Vercel
 
 ## 🌟 Proyek Unggulan
-- **[AIBIZ.ID](https://aibiz.id)**: Solusi AI WhatsApp untuk otomatisasi layanan kesehatan, mendukung registrasi pasien, charting otomatis, dan edukasi kesehatan.  
+- **[AIBIZ.ID](https://aibiz.id)**: Platform AI WhatsApp untuk otomatisasi layanan kesehatan, mendukung registrasi pasien, charting otomatis, dan edukasi kesehatan.  
 - **[Dirgasesna](https://dirgasena.biz.id)**: Penerbit aplikasi mobile dengan 10M+ unduhan, termasuk aplikasi face swap (rating 4.8 di Google Play Store).  
-- **[Apppary](#)**: Penjualan aplikasi mobile di Flippa.com, menghasilkan pendapatan pasif ribuan USD per bulan.  
-- **[WA-Tanpa-Save-Nomor](https://github.com/aanoval/WA-Tanpa-Save-Nomor)**: Aplikasi ringan untuk mengirim pesan WhatsApp tanpa menyimpan nomor.  
+- **[WA-Tanpa-Save-Nomor](https://github.com/aanoval/WA-Tanpa-Save-Nomor)**: Aplikasi ringan untuk mengirim pesan WhatsApp tanpa menyimpan nomor (JavaScript).  
+- **[absensi-face-detection-flutter](https://github.com/aanoval/absensi-face-detection-flutter)**: Aplikasi absensi berbasis deteksi wajah menggunakan Flutter.  
+- **[Penile-Screen-ViT](https://github.com/aanoval/Penile-Screen-ViT)**: Proyek AI vision untuk skrining kesehatan menggunakan Python.  
 
 ## 📊 Statistik GitHub
 <p align="center">
@@ -36,7 +39,9 @@ Saya **dr. Aa Noval**, dokter (MD, Universitas Andalas) dan pendiri [AIBIZ.ID](h
 
 ## 📬 Terhubung dengan Saya
 <p align="center">
-  <a href="https://www.linkedin.com/in/aanoval"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/aanoval"><img src="https://img要件
+
+System: img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:aanonvaluu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://wa.me.alday"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
 </p>
