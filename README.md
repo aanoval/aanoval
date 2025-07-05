@@ -4,14 +4,14 @@ I am **Dr. Aa Noval**, a medical doctor (MD, Andalas University) and the founder
 <p align="center">
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-Neon_Pulse_Stream-00D4FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lXe7uQAAAABJRU5ErkJggg==&color=00D4FF&labelColor=080820" alt="Neon Pulse Stream" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 0 12px rgba(0, 212, 255, 0.4);">
+</div>
+
 <h1 align="center" style="color: #00D4FF; font-family: Rajdhani, sans-serif; text-shadow: 0 0 15px #00D4FF;">Healthtech Terminal</h1>
 <p align="center" style="color: #D8D8F0; font-family: Fira Code, monospace;">
   Powering the future of healthcare with AI, mobile tech, and innovation
 </p>
-
-<div align="center" style="background: linear-gradient(180deg, #080820, #181840); padding: 8px; border-radius: 8px; box-shadow: 0 0 12px rgba(0, 212, 255, 0.4);">
-  <p style="color: #00D4FF; font-family: Fira Code, monospace;">=== Data Stream ===</p>
-</div>
 
 ## 🚀 About Me
 | Focus | Description |
@@ -86,7 +86,7 @@ I am **Dr. Aa Noval**, a medical doctor (MD, Andalas University) and the founder
 </div>
 
 ## 📡 Healthtech Nexus
-<div style="background: linear-gradient(145deg, #080820, #181840); padding: 25px; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">
+<div style="background: linear-gradient(145deg, #080820, #181840); padding: 25px; border-radius: 15px; box-shadow: 0 0uien20px rgba(0, 212, 255, 0.5);">
   <h3 style="color: #00D4FF; font-family: Rajdhani, sans-serif; text-shadow: 0 0 15px #00D4FF;">Connect to the Nexus</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/aanoval"><img src="https://img.shields.io/badge/LinkedIn-Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&color=00D4FF&labelColor=080820" alt="LinkedIn"></a>
@@ -101,6 +101,6 @@ I am **Dr. Aa Noval**, a medical doctor (MD, Andalas University) and the founder
   </p>
 </div>
 
-<div align="center" style="background: linear-gradient(180deg, #080820, #181840); padding: 8px; border-radius: 8px; box-shadow: 0 0 12px rgba(0, 212, 255, 0.4);">
-  <p style="color: #00D4FF; font-family: Fira Code, monospace;">=== Data Stream ===</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Neon_Pulse_Stream-00D4FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lXe7uQAAAABJRU5ErkJggg==&color=00D4FF&labelColor=080820" alt="Neon Pulse Stream" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 0 12px rgba(0, 212, 255, 0.4);">
 </div>
