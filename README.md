@@ -1,7 +1,7 @@
 # 🌟 Dr. Aa Noval | Doctor & Healthtech Innovator
 
 ![Header](https://img.shields.io/badge/Welcome_to_my_GitHub-Healthtech_Innovator-teal?style=flat-square&logo=github)  
-I am **Dr. Aa Noval**, a medical doctor (MD, Universitas Andalas) and the founder of [AIBIZ.ID](https://aibiz.id), an AI-powered healthtech platform transforming independent healthcare services in Indonesia. With experience developing mobile apps with **over 10M downloads** and expertise in **Flutter**, **Swift**, and **Python**, I build innovative solutions for doctors, midwives, and nurses.
+I am **Dr. Aa Noval**, a medical doctor (MD, Andalas University) and the founder of [AIBIZ.ID](https://aibiz.id), an AI-powered healthtech platform transforming independent healthcare services in Indonesia. With experience developing mobile apps with **over 10M downloads** and expertise in **Flutter**, **Swift**, and **Python**, I build innovative solutions for doctors, midwives, and nurses.
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGl6MHd6bHhseXd5Ym1ybTQxNnN4Y3R3dnhieHZodXh0c2dsa201cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="300" alt="Tech Animation">
