@@ -4,7 +4,7 @@
 Saya **dr. Aa Noval**, dokter (MD, Universitas Andalas) dan pendiri [AIBIZ.ID](https://aibiz.id), platform healthtech berbasis AI yang mentransformasi layanan kesehatan mandiri di Indonesia. Dengan pengalaman mengembangkan aplikasi mobile dengan **10M+ unduhan** dan keahlian di **Flutter**, **Swift**, dan **Python**, saya membangun solusi inovatif untuk dokter, bidan, dan perawat.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ0MWxjd3J0b2R0YzB5b2F4eTM5a3J0N2Z3OXVxc3A0a3RrbHkyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif" width="300" alt="Tech Animation">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGl6MHd6bHhseXd5Ym1ybTQxNnN4Y3R3dnhieHZodXh0c2dsa201cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="300" alt="Tech Animation">
 </p>
 
 ## 🚀 Tentang Saya
@@ -25,7 +25,7 @@ Saya **dr. Aa Noval**, dokter (MD, Universitas Andalas) dan pendiri [AIBIZ.ID](h
 
 ## 🌟 Proyek Unggulan
 - **[Medic AIBIZ](https://medic.aibiz.id)**: Rekam medis berbasis AI dengan fitur auto-transcriber, mempermudah dokter dan tenaga kesehatan mengelola data pasien secara efisien dengan integrasi SATUSEHAT.  
-- **[WAgEN AIBIZ](https://wa.aibiz.id)**: Agentic WhatsApp AI yang otomatis melayani pelanggan untuk healthcare dan UMKM, mendukung registrasi pasien, konsultasi, dan manajemen jadwal.  
+- **[WAgen AIBIZ](https://wa.aibiz.id)**: Agentic WhatsApp AI yang otomatis melayani pelanggan untuk healthcare dan UMKM, mendukung registrasi pasien, konsultasi, dan manajemen jadwal.  
 - **[Dirgasesna](https://dirgasena.biz.id)**: Penerbit aplikasi mobile dengan 10M+ unduhan, termasuk aplikasi face swap dengan rating 4.8 di Google Play Store.  
 - **[ALDAY GROUP](https://aldaygroup.biz.id)**: Perusahaan holding yang mengelola berbagai lini bisnis inovatif, termasuk teknologi IT, healthtech, solusi UMKM, dan F&B.  
 
