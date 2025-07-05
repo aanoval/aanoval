@@ -39,8 +39,8 @@ I am **Dr. Aa Noval**, a medical doctor (MD, Universitas Andalas) and the founde
 ## 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aanoval"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:aanonvaluu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://wa.me.alday"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
+  <a href="mailto:aanovalu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://wa.me/alday"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
 </p>
 
 ## 💡 My Story
