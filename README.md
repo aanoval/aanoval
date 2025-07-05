@@ -5,7 +5,7 @@ I am **Dr. Aa Noval**, a medical doctor (MD, Andalas University) and the founder
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Neon_Pulse_Stream-00D4FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lXe7uQAAAABJRU5ErkJggg==&color=00D4FF&labelColor=080820" alt="Neon Pulse Stream" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 0 12px rgba(0, 212, 255, 0.4);">
+  <img src="https://img.shields.io/badge/-Neon_Pulse_Stream-00D4FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lXe7uQAAAABJRU5ErkJggg==&color=00D4FF&labelColor=080820" alt="======" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 0 12px rgba(0, 212, 255, 0.4);">
 </div>
 
 <h1 align="center" style="color: #00D4FF; font-family: Rajdhani, sans-serif; text-shadow: 0 0 15px #00D4FF;">Healthtech Terminal</h1>
