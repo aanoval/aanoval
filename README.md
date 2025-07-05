@@ -12,7 +12,7 @@ I am **Dr. Aa Noval**, a medical doctor (MD, Universitas Andalas) and the founde
 |-------|-------------|
 | 🔭 **Current Project** | Leading [AIBIZ.ID](https://aibiz.id), an AI-powered WhatsApp platform for automated patient registration, consultation assistance, and 24/7 health education with SATUSEHAT integration. |
 | 🌱 **Currently Learning** | Enhancing AI solution scalability and optimizing Flutter apps for cross-platform performance. |
-| 💼 **Experience** | Founder of [Dirgasesna](https://dirgasena.biz.id) (10M+ downloads), owner of a clinic in Jasinga, and doctor at Puskesmas Pulung during the COVID-19 pandemic. |
+| 💼 **Experience** | Founder of [Dirgasesna](https://dirgasena.biz.id) (10M+ downloads), owner of a clinic in Jasinga, and doctor at RSU Aisyiah Ponorogo & Puskesmas Pulung during the COVID-19 pandemic. |
 | 🏆 **Awards** | The Best Abstract Award (Basic Science), Finalist Most Outstanding Student Award National, Bronze Medal National Biology Olympiad. |
 
 ## 🛠 Skills
@@ -25,8 +25,8 @@ I am **Dr. Aa Noval**, a medical doctor (MD, Universitas Andalas) and the founde
 
 ## 🌟 Featured Projects
 - **[Medic AIBIZ](https://medic.aibiz.id)**: AI-powered medical record system with auto-transcriber, streamlining patient data management for healthcare professionals with SATUSEHAT integration.  
-- **[WAgEN AIBIZ](https://wa.aibiz.id)**: Agentic WhatsApp AI that automates customer service for healthcare and SMEs, supporting patient registration, consultations, and scheduling.  
-- **[Dirgasesna](https://dirgasena.biz.id)**: Mobile app publisher with over 10M downloads, including a face swap app with a 4.8 rating on Google Play Store.  
+- **[WAgen AIBIZ](https://wa.aibiz.id)**: Agentic WhatsApp AI that automates customer service for healthcare and SMEs, supporting patient registration, consultations, and scheduling.  
+- **[Dirgasesna](https://dirgasena.biz.id)**: Mobile app publisher with over 10M downloads, including a face swap app with hundreds thousand user rating high as a 4.8 star on Google Play Store.  
 - **[ALDAY GROUP](https://aldaygroup.biz.id)**: Holding company managing innovative business lines, including IT technology, healthtech, SME solutions, and F&B.  
 
 ## 📊 GitHub Stats
@@ -44,6 +44,6 @@ I am **Dr. Aa Noval**, a medical doctor (MD, Universitas Andalas) and the founde
 </p>
 
 ## 💡 My Story
-As a doctor at Puskesmas Pulung during the COVID-19 pandemic, I witnessed firsthand the challenges faced by healthcare professionals in remote areas. This experience inspired me to found [AIBIZ.ID](https://aibiz.id), a platform empowering doctors, midwives, and nurses with AI technology to deliver more efficient and accessible healthcare services.
+As a doctor at RSU Aisyiah Ponorogo & Puskesmas Pulung during the COVID-19 pandemic, I witnessed firsthand the challenges faced by healthcare professionals in remote areas. This experience inspired me to found [AIBIZ.ID](https://aibiz.id), a platform empowering doctors, midwives, and nurses with AI technology to deliver more efficient and accessible healthcare services.
 
 > *"Let's build a better future for healthcare—together!"* 🌍
