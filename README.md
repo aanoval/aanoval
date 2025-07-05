@@ -24,11 +24,10 @@ Saya **dr. Aa Noval**, dokter (MD, Universitas Andalas) dan pendiri [AIBIZ.ID](h
 - **Bahasa**: Indonesia (Native), Inggris (C1/C2 - EFSET Certified)  
 
 ## 🌟 Proyek Unggulan
-- **[AIBIZ.ID](https://aibiz.id)**: Platform AI WhatsApp untuk otomatisasi layanan kesehatan, mendukung registrasi pasien, charting otomatis, dan edukasi kesehatan.  
-- **[Dirgasesna](https://dirgasena.biz.id)**: Penerbit aplikasi mobile dengan 10M+ unduhan, termasuk aplikasi face swap (rating 4.8 di Google Play Store).  
-- **[WA-Tanpa-Save-Nomor](https://github.com/aanoval/WA-Tanpa-Save-Nomor)**: Aplikasi ringan untuk mengirim pesan WhatsApp tanpa menyimpan nomor (JavaScript).  
-- **[absensi-face-detection-flutter](https://github.com/aanoval/absensi-face-detection-flutter)**: Aplikasi absensi berbasis deteksi wajah menggunakan Flutter.  
-- **[Penile-Screen-ViT](https://github.com/aanoval/Penile-Screen-ViT)**: Proyek AI vision untuk skrining kesehatan menggunakan Python.  
+- **[Medic AIBIZ](https://medic.aibiz.id)**: Rekam medis berbasis AI dengan fitur auto-transcriber, mempermudah dokter dan tenaga kesehatan mengelola data pasien secara efisien dengan integrasi SATUSEHAT.  
+- **[WAgEN AIBIZ](https://wa.aibiz.id)**: Agentic WhatsApp AI yang otomatis melayani pelanggan untuk healthcare dan UMKM, mendukung registrasi pasien, konsultasi, dan manajemen jadwal.  
+- **[Dirgasesna](https://dirgasena.biz.id)**: Penerbit aplikasi mobile dengan 10M+ unduhan, termasuk aplikasi face swap dengan rating 4.8 di Google Play Store.  
+- **[ALDAY GROUP](https://aldaygroup.biz.id)**: Perusahaan holding yang mengelola berbagai lini bisnis inovatif, termasuk teknologi IT, healthtech, solusi UMKM, dan F&B.  
 
 ## 📊 Statistik GitHub
 <p align="center">
@@ -39,9 +38,7 @@ Saya **dr. Aa Noval**, dokter (MD, Universitas Andalas) dan pendiri [AIBIZ.ID](h
 
 ## 📬 Terhubung dengan Saya
 <p align="center">
-  <a href="https://www.linkedin.com/in/aanoval"><img src="https://img要件
-
-System: img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/aanoval"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:aanonvaluu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://wa.me.alday"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
 </p>
