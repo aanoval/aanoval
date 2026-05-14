@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/Welcome_to_my_GitHub-Healthtech_Innovator-teal?style=flat-square&logo=github)  
-**Dr. Aa Noval**, MD (Andalas University), founder of [AIBIZ.ID](https://aibiz.id), an AI-powered healthtech platform revolutionizing healthcare in Indonesia. Expertise in **Flutter**, **Swift**, **Python**, with mobile apps achieving **over 10M downloads**. Leading [Appnary Studio](https://play.google.com/store/apps/developer?id=Appnary), selling high-quality apps and games generating passive revenue.
+**Dr. Aa Noval**, MD (Andalas University), founder of [AIBIZ.ID](https://aibiz.id), an AI-powered healthtech platform revolutionizing healthcare in Indonesia. Expertise in **Flutter**, **Swift**, **Python**, with mobile apps achieving **over 10M downloads**. Leading [Appnary Studio], selling high-quality apps and games generating passive revenue.
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Neon_Pulse_Stream-00D4FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lXe7uQAAAABJRU5ErkJggg==&color=00D4FF&labelColor=080820" alt="======" style="width: 100%; max-width:200px; border-radius: 8px; box-shadow: 0 0 12px rgba(0, 212, 255, 0.4);">
@@ -15,7 +15,7 @@
 |-------|-------------|
 | 🔭 **Current Project** | Leading [AIBIZ.ID](https://aibiz.id), AI-powered WhatsApp platform for patient registration, consultation, and health education with SATUSEHAT integration. |
 | 🌱 **Currently Learning** | Scaling AI solutions and optimizing Flutter apps for cross-platform performance. |
-| 💼 **Experience** | Founder of [Dirgasesna](https://dirgasena.biz.id) (10M+ downloads), [Appnary Studio](https://play.google.com/store/apps/developer?id=Appnary) (mobile apps/games seller), clinic owner in Jasinga, doctor at RSU Aisyiah Ponorogo & Puskesmas Pulung (COVID-19). |
+| 💼 **Experience** | Founder of [Dirgasesna](https://dirgasena.biz.id) (10M+ downloads), [Appnary Studio](https://play.google.com/store/) (mobile apps/games seller), clinic owner in Jasinga, doctor at RSU Aisyiah Ponorogo & Puskesmas Pulung (COVID-19). |
 | 🏆 **Awards** | Best Abstract Award (Basic Science), Finalist Most Outstanding Student Award, Bronze Medal National Biology Olympiad. |
 
 ## 🛠 Core Systems
@@ -56,7 +56,7 @@
   <div style="background: linear-gradient(145deg, #080820, #181840); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5); width: 320px;">
     <h3 style="color: #00D4FF; font-family: Rajdhani, sans-serif; text-shadow: 0 0 10px #00D4FF;">Appnary Studio</h3>
     <p style="color: #D8D8F0; font-family: Fira Code, monospace;">Mobile apps and games seller, generating thousands in passive revenue via Flippa, Google Play, and Apple App Store.</p>
-    <a href="https://play.google.com/store/apps/developer?id=Appnary"><img src="https://img.shields.io/badge/Activate-Module-00D4FF?style=for-the-badge&labelColor=080820" alt="Explore"></a>
+    <a href="https://play.google.com/"><img src="https://img.shields.io/badge/Activate-Module-00D4FF?style=for-the-badge&labelColor=080820" alt="Explore"></a>
   </div>
   <div style="background: linear-gradient(145deg, #080820, #181840); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5); width: 320px;">
     <h3 style="color: #00D4FF; font-family: Rajdhani, sans-serif; text-shadow: 0 0 10px #00D4FF;">ALDAY GROUP</h3>
@@ -76,10 +76,10 @@
 <div style="background: linear-gradient(145deg, #080820, #181840); padding: 25px; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">
   <h3 style="color: #00D4FF; font-family: Rajdhani, sans-serif; text-shadow: 0 0 10px #00D4FF;">Mission Log</h3>
   <ul style="color: #D8D8F0; font-family: Fira Code, monospace;">
-    <li><b>2017-Present</b>: Founded [Appnary Studio](https://play.google.com/store/apps/developer?id=Appnary), selling apps/games on Flippa, generating thousands in passive revenue.</li>
+    <li><b>2017-Present</b>: Founded [Appnary Studio], selling apps/games on Flippa, generating thousands in passive revenue.</li>
     <li><b>2020-2022</b>: Served as doctor at RSU Aisyiah Ponorogo & Puskesmas Pulung during COVID-19.</li>
-    <li><b>2023</b>: Founded [Dirgasesna](https://dirgasena.biz.id), achieving 10M+ app downloads.</li>
-    <li><b>2024</b>: Launched [AIBIZ.ID](https://aibiz.id), AI-powered healthtech platform.</li>
+    <li><b>2023</b>: Founded [Dirgasesna], achieving 10M+ app downloads.</li>
+    <li><b>2024</b>: Launched [AIBIZ.ID], AI-powered healthtech platform.</li>
     <li><b>2025</b>: Integrated SATUSEHAT into AIBIZ.ID for enhanced healthcare delivery.</li>
     <li><b>Awards</b>: Best Abstract Award (Basic Science), Finalist Most Outstanding Student Award, Bronze Medal National Biology Olympiad.</li>
   </ul>
@@ -94,7 +94,7 @@
     <a href="https://wa.me/alday"><img src="https://img.shields.io/badge/WhatsApp-Holo_Channel-25D366?style=for-the-badge&logo=whatsapp&color=3ECF8E&labelColor=080820" alt="WhatsApp"></a>
   </p>
   <p style="color: #D8D8F0; font-family: Fira Code, monospace;">
-    Inspired by my work as a doctor during the COVID-19 pandemic, I founded [AIBIZ.ID](https://aibiz.id) to empower healthcare professionals with AI. Through [Appnary Studio](https://play.google.com/store/apps/developer?id=Appnary), I’ve built and sold apps generating significant passive revenue, showcasing expertise in mobile app markets.
+    Inspired by my work as a doctor during the COVID-19 pandemic, I founded [AIBIZ.ID](https://aibiz.id) to empower healthcare professionals with AI. Through [Appnary Studio](https://play.google.com/store/), I’ve built and sold apps generating significant passive revenue, showcasing expertise in mobile app markets.
   </p>
   <p align="center" style="color: #00D4FF; font-family: Rajdhani, sans-serif; text-shadow: 0 0 15px #00D4FF;">
     "Transforming healthcare and mobile innovation, one solution at a time!" 🌍
