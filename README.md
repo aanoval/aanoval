@@ -15,7 +15,7 @@
 |-------|-------------|
 | 🔭 **Current Project** | Leading [AIBIZ.ID](https://aibiz.id), AI-powered WhatsApp platform for patient registration, consultation, and health education with SATUSEHAT integration. |
 | 🌱 **Currently Learning** | Scaling AI solutions and optimizing Flutter apps for cross-platform performance. |
-| 💼 **Experience** | Founder of [Dirgasesna](https://dirgasena.biz.id) (10M+ downloads), [Appnary Studio](https://play.google.com/store/) (mobile apps/games seller), clinic owner in Jasinga, doctor at RSU Aisyiah Ponorogo & Puskesmas Pulung (COVID-19). |
+| 💼 **Experience** | Founder of [Dirgasesna](https://dirgasena.biz.id) (10M+ downloads), [Appnary Studio]() (mobile apps/games seller), clinic owner in Jasinga, doctor at RSU Aisyiah Ponorogo & Puskesmas Pulung (COVID-19). |
 | 🏆 **Awards** | Best Abstract Award (Basic Science), Finalist Most Outstanding Student Award, Bronze Medal National Biology Olympiad. |
 
 ## 🛠 Core Systems
@@ -94,7 +94,7 @@
     <a href="https://wa.me/alday"><img src="https://img.shields.io/badge/WhatsApp-Holo_Channel-25D366?style=for-the-badge&logo=whatsapp&color=3ECF8E&labelColor=080820" alt="WhatsApp"></a>
   </p>
   <p style="color: #D8D8F0; font-family: Fira Code, monospace;">
-    Inspired by my work as a doctor during the COVID-19 pandemic, I founded [AIBIZ.ID](https://aibiz.id) to empower healthcare professionals with AI. Through [Appnary Studio](https://play.google.com/store/), I’ve built and sold apps generating significant passive revenue, showcasing expertise in mobile app markets.
+    Inspired by my work as a doctor during the COVID-19 pandemic, I founded AIBIZ.ID to empower healthcare professionals with AI. Through Appnary Studio, I’ve built and sold apps generating significant passive revenue, showcasing expertise in mobile app markets.
   </p>
   <p align="center" style="color: #00D4FF; font-family: Rajdhani, sans-serif; text-shadow: 0 0 15px #00D4FF;">
     "Transforming healthcare and mobile innovation, one solution at a time!" 🌍
